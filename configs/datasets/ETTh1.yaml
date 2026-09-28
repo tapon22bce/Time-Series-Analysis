@@ -1,0 +1,6 @@
+dataset: ETTh1
+L: 96
+horizon: 24
+stride_train: 1
+stride_eval: 4
+max_eval: 2000

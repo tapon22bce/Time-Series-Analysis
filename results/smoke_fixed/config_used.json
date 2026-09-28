@@ -1,0 +1,22 @@
+{
+  "dataset": "synthetic",
+  "model": "diffusion_fixed",
+  "L": 96,
+  "horizon": 24,
+  "k_neighbors": 5,
+  "sparse_k": 3,
+  "d_model": 24,
+  "depth": 2,
+  "T": 50,
+  "sample_steps": 8,
+  "cf_drop": 0.1,
+  "batch_size": 64,
+  "lr": 0.001,
+  "epochs": 3,
+  "stride_train": 2,
+  "stride_eval": 8,
+  "max_train": 1500,
+  "max_eval": 150,
+  "seed": 0,
+  "device": "cpu"
+}

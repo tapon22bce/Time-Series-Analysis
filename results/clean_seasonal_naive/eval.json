@@ -1,0 +1,10 @@
+{
+  "dataset": "retrievable_synth",
+  "model": "seasonal_naive",
+  "horizon": 24,
+  "MAE": 1.2503548860549927,
+  "MSE": 2.431893825531006,
+  "RMSE": 1.559453053327033,
+  "MAPE": 4.090617656707764,
+  "sMAPE": 1.4228239059448242
+}

@@ -1,0 +1,7 @@
+dataset: PEMS04
+L: 288          # 24h at 5-min resolution (or 24 if resample: 1h in datasets.yaml)
+horizon: 12
+stride_train: 3
+stride_eval: 6
+max_train: 60000
+max_eval: 2000

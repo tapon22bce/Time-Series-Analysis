@@ -1,0 +1,25 @@
+# kind -> loader in faithts/data/loaders.py.  `dir` = sub-folder of data/raw.
+ETTh1: {kind: ett, dir: ETT-small, file: ETTh1.csv, freq_min: 60, split: etth, period: 24,
+        url: "https://raw.githubusercontent.com/zhouhaoyi/ETDataset/main/ETT-small/ETTh1.csv"}
+ETTh2: {kind: ett, dir: ETT-small, file: ETTh2.csv, freq_min: 60, split: etth, period: 24,
+        url: "https://raw.githubusercontent.com/zhouhaoyi/ETDataset/main/ETT-small/ETTh2.csv"}
+ETTm1: {kind: ett, dir: ETT-small, file: ETTm1.csv, freq_min: 15, split: ettm, period: 96,
+        url: "https://raw.githubusercontent.com/zhouhaoyi/ETDataset/main/ETT-small/ETTm1.csv"}
+ETTm2: {kind: ett, dir: ETT-small, file: ETTm2.csv, freq_min: 15, split: ettm, period: 96,
+        url: "https://raw.githubusercontent.com/zhouhaoyi/ETDataset/main/ETT-small/ETTm2.csv"}
+Electricity: {kind: electricity, dir: electricity, max_channels: 32, split: "712",
+        url: "https://archive.ics.uci.edu/static/public/321/electricityloaddiagrams20112014.zip", unzip: true}
+# PEMS: STSGCN repo (github.com/Davidham3/STSGCN) documents the npz files; put pems04.npz etc. in data/raw/PEMS/
+PEMS04: {kind: pems, dir: PEMS, file: pems04.npz, start: "2018-01-01", resample: 1h, max_channels: 64, split: "622", manual: true}
+PEMS08: {kind: pems, dir: PEMS, file: pems08.npz, start: "2016-07-01", resample: 1h, max_channels: 64, split: "622", manual: true}
+# Weather: MPI Jena (bgc-jena.mpg.de/wetter) yearly zips OR the pre-merged weather.csv used by Autoformer
+Weather: {kind: weather, dir: weather, file: weather.csv, resample: 1h, max_channels: 21, split: "712", manual: true}
+# Beijing PM2.5 hourly csvs from stateair.net (place all yearly csvs in data/raw/stateair/)
+StateAirBeijing: {kind: stateair, dir: stateair, glob: "*.csv", split: "712", manual: true}
+# SAPFLUXNET (zenodo 3971689, 3.2 GB): extract ONE site's csv, e.g. data/raw/sapfluxnet/ESP_ALT_sapf_data.csv
+SAPFLUX_SITE: {kind: sapfluxnet, dir: sapfluxnet, file: SITE_sapf_data.csv, resample: 1h, max_channels: 16, split: "712", manual: true}
+# No verified public schema -> generic csv (date_col, cols). Export a csv and edit these entries.
+EPMapWater: {kind: generic, dir: epmap, file: water.csv, date_col: date, freq_min: 240, period: 6, split: "712", manual: true}
+NocrewWeather: {kind: generic, dir: nocrew, file: weather.csv, date_col: date, freq_min: 60, period: 24, split: "712", manual: true}
+SXCoal: {kind: generic, dir: sxcoal, file: coal_price.csv, date_col: date, freq_min: 1440, period: 7, split: "712", manual: true}
+NBSChina: {kind: generic, dir: stats_gov_cn, file: macro.csv, date_col: date, freq_min: 43200, period: 12, split: "712", manual: true}

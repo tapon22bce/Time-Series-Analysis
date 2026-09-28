@@ -1,0 +1,10 @@
+torch>=2.1
+numpy
+pandas
+pyyaml
+matplotlib
+scipy
+pillow
+# VLM (optional, only for the Qwen explainer/critic):
+transformers>=4.49
+accelerate

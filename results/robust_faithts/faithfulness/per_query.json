@@ -1,0 +1,1502 @@
+[
+  {
+    "query_idx": 44,
+    "top_weight": 0.17309662699699402,
+    "forecast_delta_remove": 0.6381205320358276,
+    "forecast_delta_swap": 0.5624347925186157,
+    "weight_after_remove_mass": 0.49718552827835083,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 214,
+    "top_weight": 0.17722006142139435,
+    "forecast_delta_remove": 1.0878862142562866,
+    "forecast_delta_swap": 0.9096760749816895,
+    "weight_after_remove_mass": 0.507512629032135,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 287,
+    "top_weight": 0.16322968900203705,
+    "forecast_delta_remove": 0.24671819806098938,
+    "forecast_delta_swap": 0.2557377815246582,
+    "weight_after_remove_mass": 0.4947969317436218,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 174,
+    "top_weight": 0.1495884507894516,
+    "forecast_delta_remove": 0.6791350245475769,
+    "forecast_delta_swap": 0.581580638885498,
+    "weight_after_remove_mass": 0.39846837520599365,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 155,
+    "top_weight": 0.1678193360567093,
+    "forecast_delta_remove": 0.30310213565826416,
+    "forecast_delta_swap": 0.28402942419052124,
+    "weight_after_remove_mass": 0.4942420423030853,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 34,
+    "top_weight": 0.161136195063591,
+    "forecast_delta_remove": 0.4689214527606964,
+    "forecast_delta_swap": 0.39906835556030273,
+    "weight_after_remove_mass": 0.48244762420654297,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 237,
+    "top_weight": 0.1826237142086029,
+    "forecast_delta_remove": 0.32611891627311707,
+    "forecast_delta_swap": 0.3029707968235016,
+    "weight_after_remove_mass": 0.5385259389877319,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 248,
+    "top_weight": 0.1705487072467804,
+    "forecast_delta_remove": 0.36649981141090393,
+    "forecast_delta_swap": 0.4547767639160156,
+    "weight_after_remove_mass": 0.5083057880401611,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 257,
+    "top_weight": 0.1469564586877823,
+    "forecast_delta_remove": 0.5239152312278748,
+    "forecast_delta_swap": 0.6467883586883545,
+    "weight_after_remove_mass": 0.38831108808517456,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 303,
+    "top_weight": 0.16777218878269196,
+    "forecast_delta_remove": 0.676708459854126,
+    "forecast_delta_swap": 0.6064915060997009,
+    "weight_after_remove_mass": 0.48676037788391113,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 321,
+    "top_weight": 0.17684528231620789,
+    "forecast_delta_remove": 0.37163999676704407,
+    "forecast_delta_swap": 0.4929245412349701,
+    "weight_after_remove_mass": 0.5086609721183777,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 213,
+    "top_weight": 0.178873673081398,
+    "forecast_delta_remove": 0.5196514129638672,
+    "forecast_delta_swap": 0.5912693738937378,
+    "weight_after_remove_mass": 0.5278966426849365,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 0,
+    "top_weight": 0.18130388855934143,
+    "forecast_delta_remove": 0.2631547749042511,
+    "forecast_delta_swap": 0.34962043166160583,
+    "weight_after_remove_mass": 0.5315463542938232,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 322,
+    "top_weight": 0.17501495778560638,
+    "forecast_delta_remove": 0.6084395051002502,
+    "forecast_delta_swap": 0.6348993182182312,
+    "weight_after_remove_mass": 0.5056599974632263,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 326,
+    "top_weight": 0.16935500502586365,
+    "forecast_delta_remove": 0.4055939018726349,
+    "forecast_delta_swap": 0.33568891882896423,
+    "weight_after_remove_mass": 0.4947301149368286,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 131,
+    "top_weight": 0.162397563457489,
+    "forecast_delta_remove": 0.721367597579956,
+    "forecast_delta_swap": 0.6958930492401123,
+    "weight_after_remove_mass": 0.489596426486969,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 232,
+    "top_weight": 0.17318212985992432,
+    "forecast_delta_remove": 0.44265836477279663,
+    "forecast_delta_swap": 0.2940370738506317,
+    "weight_after_remove_mass": 0.48774051666259766,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 192,
+    "top_weight": 0.15979140996932983,
+    "forecast_delta_remove": 0.5929239988327026,
+    "forecast_delta_swap": 0.5466758012771606,
+    "weight_after_remove_mass": 0.48708856105804443,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 344,
+    "top_weight": 0.16451537609100342,
+    "forecast_delta_remove": 0.5528304576873779,
+    "forecast_delta_swap": 0.5821274518966675,
+    "weight_after_remove_mass": 0.49074381589889526,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 211,
+    "top_weight": 0.1760486662387848,
+    "forecast_delta_remove": 0.5355627536773682,
+    "forecast_delta_swap": 0.5640504956245422,
+    "weight_after_remove_mass": 0.5113419890403748,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 106,
+    "top_weight": 0.15663136541843414,
+    "forecast_delta_remove": 0.4939607083797455,
+    "forecast_delta_swap": 0.5340241193771362,
+    "weight_after_remove_mass": 0.47757065296173096,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 1,
+    "top_weight": 0.17782343924045563,
+    "forecast_delta_remove": 0.37154555320739746,
+    "forecast_delta_swap": 0.3171485662460327,
+    "weight_after_remove_mass": 0.5205732583999634,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 327,
+    "top_weight": 0.17012913525104523,
+    "forecast_delta_remove": 0.6167773604393005,
+    "forecast_delta_swap": 0.8615058064460754,
+    "weight_after_remove_mass": 0.485668808221817,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 136,
+    "top_weight": 0.18371699750423431,
+    "forecast_delta_remove": 0.4482095539569855,
+    "forecast_delta_swap": 0.27766191959381104,
+    "weight_after_remove_mass": 0.5400997400283813,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 72,
+    "top_weight": 0.17175674438476562,
+    "forecast_delta_remove": 0.6279566884040833,
+    "forecast_delta_swap": 0.6427754163742065,
+    "weight_after_remove_mass": 0.5058416128158569,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 366,
+    "top_weight": 0.17775779962539673,
+    "forecast_delta_remove": 0.3743407428264618,
+    "forecast_delta_swap": 0.2991839647293091,
+    "weight_after_remove_mass": 0.5185198783874512,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 101,
+    "top_weight": 0.16138924658298492,
+    "forecast_delta_remove": 0.38775280117988586,
+    "forecast_delta_swap": 0.4678274095058441,
+    "weight_after_remove_mass": 0.4812789857387543,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 316,
+    "top_weight": 0.15876983106136322,
+    "forecast_delta_remove": 0.3431899845600128,
+    "forecast_delta_swap": 0.5838868021965027,
+    "weight_after_remove_mass": 0.44093674421310425,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 289,
+    "top_weight": 0.1760425567626953,
+    "forecast_delta_remove": 0.3544396460056305,
+    "forecast_delta_swap": 0.5511301159858704,
+    "weight_after_remove_mass": 0.5204372406005859,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 285,
+    "top_weight": 0.1531311571598053,
+    "forecast_delta_remove": 0.5992481708526611,
+    "forecast_delta_swap": 0.4784904420375824,
+    "weight_after_remove_mass": 0.4705515503883362,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 251,
+    "top_weight": 0.16465170681476593,
+    "forecast_delta_remove": 0.44951459765434265,
+    "forecast_delta_swap": 0.5681943893432617,
+    "weight_after_remove_mass": 0.47601890563964844,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 85,
+    "top_weight": 0.1611168086528778,
+    "forecast_delta_remove": 0.8255041241645813,
+    "forecast_delta_swap": 1.0526422262191772,
+    "weight_after_remove_mass": 0.4347904920578003,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 67,
+    "top_weight": 0.17156541347503662,
+    "forecast_delta_remove": 0.3986542522907257,
+    "forecast_delta_swap": 0.38068336248397827,
+    "weight_after_remove_mass": 0.48410630226135254,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 361,
+    "top_weight": 0.16615670919418335,
+    "forecast_delta_remove": 0.5181500911712646,
+    "forecast_delta_swap": 0.6324869990348816,
+    "weight_after_remove_mass": 0.5010627508163452,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 293,
+    "top_weight": 0.15202444791793823,
+    "forecast_delta_remove": 0.5111949443817139,
+    "forecast_delta_swap": 0.4735961854457855,
+    "weight_after_remove_mass": 0.4672476053237915,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 380,
+    "top_weight": 0.17306040227413177,
+    "forecast_delta_remove": 0.709766149520874,
+    "forecast_delta_swap": 0.8686040639877319,
+    "weight_after_remove_mass": 0.5058761835098267,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 130,
+    "top_weight": 0.14910759031772614,
+    "forecast_delta_remove": 0.4674361050128937,
+    "forecast_delta_swap": 0.5050753355026245,
+    "weight_after_remove_mass": 0.39222168922424316,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 243,
+    "top_weight": 0.16054169833660126,
+    "forecast_delta_remove": 0.6310088038444519,
+    "forecast_delta_swap": 0.6234447360038757,
+    "weight_after_remove_mass": 0.46774113178253174,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 63,
+    "top_weight": 0.17711251974105835,
+    "forecast_delta_remove": 0.3810485303401947,
+    "forecast_delta_swap": 0.5647274851799011,
+    "weight_after_remove_mass": 0.510382354259491,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 137,
+    "top_weight": 0.16608862578868866,
+    "forecast_delta_remove": 0.35289862751960754,
+    "forecast_delta_swap": 0.32501205801963806,
+    "weight_after_remove_mass": 0.498953640460968,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 258,
+    "top_weight": 0.16368134319782257,
+    "forecast_delta_remove": 0.35094112157821655,
+    "forecast_delta_swap": 0.4605697691440582,
+    "weight_after_remove_mass": 0.49080246686935425,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 107,
+    "top_weight": 0.1753147691488266,
+    "forecast_delta_remove": 0.746581494808197,
+    "forecast_delta_swap": 0.49133703112602234,
+    "weight_after_remove_mass": 0.5020206570625305,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 212,
+    "top_weight": 0.1736912876367569,
+    "forecast_delta_remove": 0.5098444223403931,
+    "forecast_delta_swap": 0.4631427526473999,
+    "weight_after_remove_mass": 0.5135967135429382,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 30,
+    "top_weight": 0.14811374247074127,
+    "forecast_delta_remove": 0.5383743643760681,
+    "forecast_delta_swap": 0.5978133678436279,
+    "weight_after_remove_mass": 0.39683693647384644,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 271,
+    "top_weight": 0.16075976192951202,
+    "forecast_delta_remove": 0.29420918226242065,
+    "forecast_delta_swap": 0.34013858437538147,
+    "weight_after_remove_mass": 0.49036073684692383,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 222,
+    "top_weight": 0.16337667405605316,
+    "forecast_delta_remove": 0.6236814856529236,
+    "forecast_delta_swap": 0.7783125638961792,
+    "weight_after_remove_mass": 0.4672827124595642,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 43,
+    "top_weight": 0.17062553763389587,
+    "forecast_delta_remove": 0.5609518885612488,
+    "forecast_delta_swap": 0.5142452716827393,
+    "weight_after_remove_mass": 0.5012832283973694,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 268,
+    "top_weight": 0.17684310674667358,
+    "forecast_delta_remove": 0.40585261583328247,
+    "forecast_delta_swap": 0.2905253469944,
+    "weight_after_remove_mass": 0.5161540508270264,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 254,
+    "top_weight": 0.14655739068984985,
+    "forecast_delta_remove": 0.6763885021209717,
+    "forecast_delta_swap": 0.6283449530601501,
+    "weight_after_remove_mass": 0.3940718173980713,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 290,
+    "top_weight": 0.17710404098033905,
+    "forecast_delta_remove": 0.3557659983634949,
+    "forecast_delta_swap": 0.4397781789302826,
+    "weight_after_remove_mass": 0.5127425193786621,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 140,
+    "top_weight": 0.15517444908618927,
+    "forecast_delta_remove": 0.6021502614021301,
+    "forecast_delta_swap": 0.7079622149467468,
+    "weight_after_remove_mass": 0.41985610127449036,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 244,
+    "top_weight": 0.17799031734466553,
+    "forecast_delta_remove": 0.8544910550117493,
+    "forecast_delta_swap": 0.7680304646492004,
+    "weight_after_remove_mass": 0.4993876814842224,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 117,
+    "top_weight": 0.1773478388786316,
+    "forecast_delta_remove": 0.37475791573524475,
+    "forecast_delta_swap": 0.36821818351745605,
+    "weight_after_remove_mass": 0.5128673911094666,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 88,
+    "top_weight": 0.17123985290527344,
+    "forecast_delta_remove": 0.44879499077796936,
+    "forecast_delta_swap": 0.4348944425582886,
+    "weight_after_remove_mass": 0.4960573613643646,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 221,
+    "top_weight": 0.17090417444705963,
+    "forecast_delta_remove": 0.4575034976005554,
+    "forecast_delta_swap": 0.47888457775115967,
+    "weight_after_remove_mass": 0.512412428855896,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 345,
+    "top_weight": 0.17215904593467712,
+    "forecast_delta_remove": 0.4304358959197998,
+    "forecast_delta_swap": 0.4400530755519867,
+    "weight_after_remove_mass": 0.4860723614692688,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 223,
+    "top_weight": 0.15811583399772644,
+    "forecast_delta_remove": 0.5567800402641296,
+    "forecast_delta_swap": 0.5338967442512512,
+    "weight_after_remove_mass": 0.45768243074417114,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 313,
+    "top_weight": 0.15917961299419403,
+    "forecast_delta_remove": 0.41168591380119324,
+    "forecast_delta_swap": 0.5109843611717224,
+    "weight_after_remove_mass": 0.46228793263435364,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 348,
+    "top_weight": 0.1767188310623169,
+    "forecast_delta_remove": 0.31920692324638367,
+    "forecast_delta_swap": 0.39275842905044556,
+    "weight_after_remove_mass": 0.5278853178024292,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 309,
+    "top_weight": 0.16555668413639069,
+    "forecast_delta_remove": 0.5423488020896912,
+    "forecast_delta_swap": 0.5690892338752747,
+    "weight_after_remove_mass": 0.484592080116272,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 199,
+    "top_weight": 0.16870300471782684,
+    "forecast_delta_remove": 0.6498521566390991,
+    "forecast_delta_swap": 0.4953080117702484,
+    "weight_after_remove_mass": 0.48799389600753784,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 188,
+    "top_weight": 0.16901011765003204,
+    "forecast_delta_remove": 0.583788275718689,
+    "forecast_delta_swap": 0.48979830741882324,
+    "weight_after_remove_mass": 0.4928729236125946,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 205,
+    "top_weight": 0.17772576212882996,
+    "forecast_delta_remove": 0.23001663386821747,
+    "forecast_delta_swap": 0.35531333088874817,
+    "weight_after_remove_mass": 0.5304299592971802,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 241,
+    "top_weight": 0.1671188771724701,
+    "forecast_delta_remove": 0.7348353862762451,
+    "forecast_delta_swap": 0.9657387137413025,
+    "weight_after_remove_mass": 0.4946613907814026,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 359,
+    "top_weight": 0.17949257791042328,
+    "forecast_delta_remove": 0.435882568359375,
+    "forecast_delta_swap": 0.39347314834594727,
+    "weight_after_remove_mass": 0.5327230095863342,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 185,
+    "top_weight": 0.16214615106582642,
+    "forecast_delta_remove": 0.31843116879463196,
+    "forecast_delta_swap": 0.30809304118156433,
+    "weight_after_remove_mass": 0.48879241943359375,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 220,
+    "top_weight": 0.17601390182971954,
+    "forecast_delta_remove": 0.28133144974708557,
+    "forecast_delta_swap": 0.3021576702594757,
+    "weight_after_remove_mass": 0.5234849452972412,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 371,
+    "top_weight": 0.1781878024339676,
+    "forecast_delta_remove": 0.63432377576828,
+    "forecast_delta_swap": 0.7618659734725952,
+    "weight_after_remove_mass": 0.5002014636993408,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 24,
+    "top_weight": 0.14956580102443695,
+    "forecast_delta_remove": 0.5114042162895203,
+    "forecast_delta_swap": 0.7588909268379211,
+    "weight_after_remove_mass": 0.40394389629364014,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 335,
+    "top_weight": 0.17310181260108948,
+    "forecast_delta_remove": 0.4235762357711792,
+    "forecast_delta_swap": 0.4819570779800415,
+    "weight_after_remove_mass": 0.5106513500213623,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 207,
+    "top_weight": 0.15372194349765778,
+    "forecast_delta_remove": 0.6408863663673401,
+    "forecast_delta_swap": 0.5892772078514099,
+    "weight_after_remove_mass": 0.42217376828193665,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 153,
+    "top_weight": 0.17289413511753082,
+    "forecast_delta_remove": 0.6820061206817627,
+    "forecast_delta_swap": 0.732887327671051,
+    "weight_after_remove_mass": 0.4984300136566162,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 358,
+    "top_weight": 0.1580885648727417,
+    "forecast_delta_remove": 0.6393839716911316,
+    "forecast_delta_swap": 0.5243114829063416,
+    "weight_after_remove_mass": 0.47909772396087646,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 263,
+    "top_weight": 0.18178002536296844,
+    "forecast_delta_remove": 0.48700782656669617,
+    "forecast_delta_swap": 0.5219384431838989,
+    "weight_after_remove_mass": 0.5188164710998535,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 374,
+    "top_weight": 0.170790895819664,
+    "forecast_delta_remove": 0.45241233706474304,
+    "forecast_delta_swap": 0.4413658082485199,
+    "weight_after_remove_mass": 0.4931579828262329,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 12,
+    "top_weight": 0.1717740297317505,
+    "forecast_delta_remove": 0.8192019462585449,
+    "forecast_delta_swap": 0.9422224760055542,
+    "weight_after_remove_mass": 0.4942969083786011,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 187,
+    "top_weight": 0.1754971295595169,
+    "forecast_delta_remove": 0.6910509467124939,
+    "forecast_delta_swap": 0.6118432879447937,
+    "weight_after_remove_mass": 0.5165881514549255,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 3,
+    "top_weight": 0.16238731145858765,
+    "forecast_delta_remove": 0.7260950207710266,
+    "forecast_delta_swap": 0.6230623722076416,
+    "weight_after_remove_mass": 0.49004828929901123,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 125,
+    "top_weight": 0.1727442741394043,
+    "forecast_delta_remove": 0.6991632580757141,
+    "forecast_delta_swap": 0.5845857262611389,
+    "weight_after_remove_mass": 0.497199684381485,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 96,
+    "top_weight": 0.1583608239889145,
+    "forecast_delta_remove": 0.521320104598999,
+    "forecast_delta_swap": 0.7052415013313293,
+    "weight_after_remove_mass": 0.4800223708152771,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 202,
+    "top_weight": 0.1678224802017212,
+    "forecast_delta_remove": 0.6197430491447449,
+    "forecast_delta_swap": 0.5187903642654419,
+    "weight_after_remove_mass": 0.4875947833061218,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 352,
+    "top_weight": 0.1694308966398239,
+    "forecast_delta_remove": 0.3566790521144867,
+    "forecast_delta_swap": 0.3446364104747772,
+    "weight_after_remove_mass": 0.5068188309669495,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 79,
+    "top_weight": 0.1789153665304184,
+    "forecast_delta_remove": 0.6919951438903809,
+    "forecast_delta_swap": 0.44039660692214966,
+    "weight_after_remove_mass": 0.5242029428482056,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 355,
+    "top_weight": 0.14801326394081116,
+    "forecast_delta_remove": 0.5432957410812378,
+    "forecast_delta_swap": 0.34296679496765137,
+    "weight_after_remove_mass": 0.39279109239578247,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 26,
+    "top_weight": 0.15229804813861847,
+    "forecast_delta_remove": 0.6510399580001831,
+    "forecast_delta_swap": 0.5499778985977173,
+    "weight_after_remove_mass": 0.42305082082748413,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 11,
+    "top_weight": 0.16151957213878632,
+    "forecast_delta_remove": 0.5961539149284363,
+    "forecast_delta_swap": 0.47927147150039673,
+    "weight_after_remove_mass": 0.4680744409561157,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 203,
+    "top_weight": 0.15795361995697021,
+    "forecast_delta_remove": 0.6003138422966003,
+    "forecast_delta_swap": 0.5845353603363037,
+    "weight_after_remove_mass": 0.4258275032043457,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 114,
+    "top_weight": 0.1754170060157776,
+    "forecast_delta_remove": 0.6950387954711914,
+    "forecast_delta_swap": 0.6327134966850281,
+    "weight_after_remove_mass": 0.5107636451721191,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 323,
+    "top_weight": 0.16249683499336243,
+    "forecast_delta_remove": 0.6423150300979614,
+    "forecast_delta_swap": 0.618116557598114,
+    "weight_after_remove_mass": 0.4789476990699768,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 143,
+    "top_weight": 0.14959613978862762,
+    "forecast_delta_remove": 0.5857090950012207,
+    "forecast_delta_swap": 0.5799915194511414,
+    "weight_after_remove_mass": 0.46165788173675537,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 55,
+    "top_weight": 0.15994687378406525,
+    "forecast_delta_remove": 0.4433407783508301,
+    "forecast_delta_swap": 0.6592405438423157,
+    "weight_after_remove_mass": 0.46673908829689026,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 353,
+    "top_weight": 0.16836510598659515,
+    "forecast_delta_remove": 0.5658056735992432,
+    "forecast_delta_swap": 0.5438328981399536,
+    "weight_after_remove_mass": 0.48032987117767334,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 246,
+    "top_weight": 0.17564070224761963,
+    "forecast_delta_remove": 0.6185958981513977,
+    "forecast_delta_swap": 0.8966293334960938,
+    "weight_after_remove_mass": 0.4980328679084778,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 70,
+    "top_weight": 0.152865469455719,
+    "forecast_delta_remove": 0.7235837578773499,
+    "forecast_delta_swap": 0.6183092594146729,
+    "weight_after_remove_mass": 0.40813136100769043,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 95,
+    "top_weight": 0.1755126267671585,
+    "forecast_delta_remove": 0.5016253590583801,
+    "forecast_delta_swap": 0.320609986782074,
+    "weight_after_remove_mass": 0.510793149471283,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 126,
+    "top_weight": 0.15012992918491364,
+    "forecast_delta_remove": 0.5400673151016235,
+    "forecast_delta_swap": 0.6281235814094543,
+    "weight_after_remove_mass": 0.40687721967697144,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 94,
+    "top_weight": 0.1776503473520279,
+    "forecast_delta_remove": 0.6443588137626648,
+    "forecast_delta_swap": 0.6408822536468506,
+    "weight_after_remove_mass": 0.5163087844848633,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 383,
+    "top_weight": 0.16951526701450348,
+    "forecast_delta_remove": 0.5610872507095337,
+    "forecast_delta_swap": 0.5008804798126221,
+    "weight_after_remove_mass": 0.4907644987106323,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 171,
+    "top_weight": 0.16669945418834686,
+    "forecast_delta_remove": 0.6331398487091064,
+    "forecast_delta_swap": 0.644914448261261,
+    "weight_after_remove_mass": 0.4757819175720215,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 87,
+    "top_weight": 0.17209109663963318,
+    "forecast_delta_remove": 1.015184998512268,
+    "forecast_delta_swap": 0.8285841941833496,
+    "weight_after_remove_mass": 0.49044087529182434,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 105,
+    "top_weight": 0.16798020899295807,
+    "forecast_delta_remove": 0.5491666793823242,
+    "forecast_delta_swap": 0.4740158021450043,
+    "weight_after_remove_mass": 0.4996453523635864,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 306,
+    "top_weight": 0.15898825228214264,
+    "forecast_delta_remove": 0.6840071678161621,
+    "forecast_delta_swap": 0.6079609394073486,
+    "weight_after_remove_mass": 0.4569970965385437,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 270,
+    "top_weight": 0.16998577117919922,
+    "forecast_delta_remove": 0.40684616565704346,
+    "forecast_delta_swap": 0.47195714712142944,
+    "weight_after_remove_mass": 0.486336886882782,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 250,
+    "top_weight": 0.17023757100105286,
+    "forecast_delta_remove": 0.3722735643386841,
+    "forecast_delta_swap": 0.475885272026062,
+    "weight_after_remove_mass": 0.5084280967712402,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 300,
+    "top_weight": 0.15895609557628632,
+    "forecast_delta_remove": 0.6403618454933167,
+    "forecast_delta_swap": 0.6455608010292053,
+    "weight_after_remove_mass": 0.4618699550628662,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 375,
+    "top_weight": 0.17318031191825867,
+    "forecast_delta_remove": 0.4176977872848511,
+    "forecast_delta_swap": 0.3781200349330902,
+    "weight_after_remove_mass": 0.520814836025238,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 184,
+    "top_weight": 0.15023504197597504,
+    "forecast_delta_remove": 0.6449990272521973,
+    "forecast_delta_swap": 0.5096152424812317,
+    "weight_after_remove_mass": 0.39915692806243896,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 280,
+    "top_weight": 0.1788976639509201,
+    "forecast_delta_remove": 0.3885568082332611,
+    "forecast_delta_swap": 0.37824249267578125,
+    "weight_after_remove_mass": 0.5193766355514526,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 347,
+    "top_weight": 0.1609957069158554,
+    "forecast_delta_remove": 0.81562340259552,
+    "forecast_delta_swap": 0.7250556349754333,
+    "weight_after_remove_mass": 0.4324343204498291,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 249,
+    "top_weight": 0.17326350510120392,
+    "forecast_delta_remove": 0.5420370101928711,
+    "forecast_delta_swap": 0.38936054706573486,
+    "weight_after_remove_mass": 0.5178353786468506,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 195,
+    "top_weight": 0.16718001663684845,
+    "forecast_delta_remove": 0.5032939910888672,
+    "forecast_delta_swap": 0.25820255279541016,
+    "weight_after_remove_mass": 0.4985915422439575,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 148,
+    "top_weight": 0.18479765951633453,
+    "forecast_delta_remove": 0.737471878528595,
+    "forecast_delta_swap": 0.6935244798660278,
+    "weight_after_remove_mass": 0.5258032083511353,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 180,
+    "top_weight": 0.18053825199604034,
+    "forecast_delta_remove": 0.39875105023384094,
+    "forecast_delta_swap": 0.42489737272262573,
+    "weight_after_remove_mass": 0.5208575129508972,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 156,
+    "top_weight": 0.17435671389102936,
+    "forecast_delta_remove": 0.4810293912887573,
+    "forecast_delta_swap": 0.5078698992729187,
+    "weight_after_remove_mass": 0.5168447494506836,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 112,
+    "top_weight": 0.16011632978916168,
+    "forecast_delta_remove": 0.22291438281536102,
+    "forecast_delta_swap": 0.23723945021629333,
+    "weight_after_remove_mass": 0.48894405364990234,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 334,
+    "top_weight": 0.18637783825397491,
+    "forecast_delta_remove": 0.3344736695289612,
+    "forecast_delta_swap": 0.28568199276924133,
+    "weight_after_remove_mass": 0.5450097918510437,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 69,
+    "top_weight": 0.17477890849113464,
+    "forecast_delta_remove": 0.6378341913223267,
+    "forecast_delta_swap": 0.4993100166320801,
+    "weight_after_remove_mass": 0.5037497282028198,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 269,
+    "top_weight": 0.16882644593715668,
+    "forecast_delta_remove": 0.5011601448059082,
+    "forecast_delta_swap": 0.523776113986969,
+    "weight_after_remove_mass": 0.48622995615005493,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 317,
+    "top_weight": 0.17802873253822327,
+    "forecast_delta_remove": 0.5740845799446106,
+    "forecast_delta_swap": 0.6293169260025024,
+    "weight_after_remove_mass": 0.5221265554428101,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 343,
+    "top_weight": 0.16963233053684235,
+    "forecast_delta_remove": 0.6367089152336121,
+    "forecast_delta_swap": 0.6130785942077637,
+    "weight_after_remove_mass": 0.48488062620162964,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 215,
+    "top_weight": 0.14346113801002502,
+    "forecast_delta_remove": 0.48415708541870117,
+    "forecast_delta_swap": 0.6747097969055176,
+    "weight_after_remove_mass": 0.37827223539352417,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 86,
+    "top_weight": 0.16965842247009277,
+    "forecast_delta_remove": 0.3194999396800995,
+    "forecast_delta_swap": 0.4206029176712036,
+    "weight_after_remove_mass": 0.5041835308074951,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 181,
+    "top_weight": 0.15324638783931732,
+    "forecast_delta_remove": 0.4858417212963104,
+    "forecast_delta_swap": 0.36977148056030273,
+    "weight_after_remove_mass": 0.4154766798019409,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 65,
+    "top_weight": 0.16561241447925568,
+    "forecast_delta_remove": 0.5001944899559021,
+    "forecast_delta_swap": 0.6407269835472107,
+    "weight_after_remove_mass": 0.5013960003852844,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 78,
+    "top_weight": 0.17393843829631805,
+    "forecast_delta_remove": 0.4792484939098358,
+    "forecast_delta_swap": 0.5469167828559875,
+    "weight_after_remove_mass": 0.49674564599990845,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 90,
+    "top_weight": 0.1671157032251358,
+    "forecast_delta_remove": 0.5940614342689514,
+    "forecast_delta_swap": 0.583339273929596,
+    "weight_after_remove_mass": 0.49580124020576477,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 46,
+    "top_weight": 0.17116707563400269,
+    "forecast_delta_remove": 0.5590396523475647,
+    "forecast_delta_swap": 0.5178574919700623,
+    "weight_after_remove_mass": 0.4943005442619324,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 82,
+    "top_weight": 0.165638267993927,
+    "forecast_delta_remove": 0.5991536378860474,
+    "forecast_delta_swap": 0.5238631963729858,
+    "weight_after_remove_mass": 0.49037671089172363,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 265,
+    "top_weight": 0.17534129321575165,
+    "forecast_delta_remove": 0.48617979884147644,
+    "forecast_delta_swap": 0.5542275309562683,
+    "weight_after_remove_mass": 0.5070264339447021,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 99,
+    "top_weight": 0.17146505415439606,
+    "forecast_delta_remove": 0.3821379542350769,
+    "forecast_delta_swap": 0.5306922197341919,
+    "weight_after_remove_mass": 0.5011249780654907,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 338,
+    "top_weight": 0.1549852043390274,
+    "forecast_delta_remove": 0.6085078120231628,
+    "forecast_delta_swap": 0.44734424352645874,
+    "weight_after_remove_mass": 0.4734920263290405,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 135,
+    "top_weight": 0.17134487628936768,
+    "forecast_delta_remove": 0.8095428347587585,
+    "forecast_delta_swap": 0.6404170989990234,
+    "weight_after_remove_mass": 0.48685720562934875,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 229,
+    "top_weight": 0.15110163390636444,
+    "forecast_delta_remove": 0.7956869006156921,
+    "forecast_delta_swap": 0.6620563864707947,
+    "weight_after_remove_mass": 0.40756452083587646,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 320,
+    "top_weight": 0.17815423011779785,
+    "forecast_delta_remove": 0.35999682545661926,
+    "forecast_delta_swap": 0.3799155354499817,
+    "weight_after_remove_mass": 0.5066949129104614,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 111,
+    "top_weight": 0.17294791340827942,
+    "forecast_delta_remove": 0.6307241916656494,
+    "forecast_delta_swap": 0.7139680981636047,
+    "weight_after_remove_mass": 0.4975334703922272,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 286,
+    "top_weight": 0.15538087487220764,
+    "forecast_delta_remove": 0.905603289604187,
+    "forecast_delta_swap": 0.9427028894424438,
+    "weight_after_remove_mass": 0.4165402352809906,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 162,
+    "top_weight": 0.18130409717559814,
+    "forecast_delta_remove": 0.40834444761276245,
+    "forecast_delta_swap": 0.39538073539733887,
+    "weight_after_remove_mass": 0.5345853567123413,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 376,
+    "top_weight": 0.16333791613578796,
+    "forecast_delta_remove": 0.6852060556411743,
+    "forecast_delta_swap": 0.47175100445747375,
+    "weight_after_remove_mass": 0.4574638903141022,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 15,
+    "top_weight": 0.16485406458377838,
+    "forecast_delta_remove": 0.5371631979942322,
+    "forecast_delta_swap": 0.3439841568470001,
+    "weight_after_remove_mass": 0.4800676703453064,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 278,
+    "top_weight": 0.1776866763830185,
+    "forecast_delta_remove": 0.44501036405563354,
+    "forecast_delta_swap": 0.528274416923523,
+    "weight_after_remove_mass": 0.5170825719833374,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 109,
+    "top_weight": 0.15225526690483093,
+    "forecast_delta_remove": 0.5921873450279236,
+    "forecast_delta_swap": 0.6417461037635803,
+    "weight_after_remove_mass": 0.46686050295829773,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 28,
+    "top_weight": 0.1659017652273178,
+    "forecast_delta_remove": 0.5650718212127686,
+    "forecast_delta_swap": 0.8151910901069641,
+    "weight_after_remove_mass": 0.483183890581131,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 274,
+    "top_weight": 0.16848567128181458,
+    "forecast_delta_remove": 0.9765190482139587,
+    "forecast_delta_swap": 0.8559927344322205,
+    "weight_after_remove_mass": 0.47767361998558044,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 240,
+    "top_weight": 0.160131573677063,
+    "forecast_delta_remove": 0.27637818455696106,
+    "forecast_delta_swap": 0.37353697419166565,
+    "weight_after_remove_mass": 0.489520788192749,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 349,
+    "top_weight": 0.16928809881210327,
+    "forecast_delta_remove": 0.6464555859565735,
+    "forecast_delta_swap": 0.6957823634147644,
+    "weight_after_remove_mass": 0.5105352401733398,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 164,
+    "top_weight": 0.17261239886283875,
+    "forecast_delta_remove": 0.5731802582740784,
+    "forecast_delta_swap": 0.5942054390907288,
+    "weight_after_remove_mass": 0.5012496709823608,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 261,
+    "top_weight": 0.1588974893093109,
+    "forecast_delta_remove": 0.45949867367744446,
+    "forecast_delta_swap": 0.42204979062080383,
+    "weight_after_remove_mass": 0.4842791259288788,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 372,
+    "top_weight": 0.16783033311367035,
+    "forecast_delta_remove": 0.6289167404174805,
+    "forecast_delta_swap": 0.4341990351676941,
+    "weight_after_remove_mass": 0.47906267642974854,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 245,
+    "top_weight": 0.1580311357975006,
+    "forecast_delta_remove": 0.3554902672767639,
+    "forecast_delta_swap": 0.5589507222175598,
+    "weight_after_remove_mass": 0.4327120780944824,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  },
+  {
+    "query_idx": 281,
+    "top_weight": 0.15207019448280334,
+    "forecast_delta_remove": 0.44626694917678833,
+    "forecast_delta_swap": 0.44672325253486633,
+    "weight_after_remove_mass": 0.4667394757270813,
+    "weight_after_swap_on_adversary": 0.0,
+    "explanation_consistent_remove": true,
+    "explanation_consistent_swap": true
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "dataset": "retrievable_synth",
+  "model": "patch_transformer",
+  "horizon": 24,
+  "MAE": 0.3320375084877014,
+  "MSE": 0.1860000044107437,
+  "RMSE": 0.43127717817054,
+  "MAPE": 1.950463891029358,
+  "sMAPE": 0.5756567120552063
+}

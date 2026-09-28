@@ -1,0 +1,23 @@
+{
+  "dataset": "retrievable_synth",
+  "L": 96,
+  "horizon": 24,
+  "k_neighbors": 5,
+  "sparse_k": 3,
+  "d_model": 48,
+  "depth": 3,
+  "T": 100,
+  "sample_steps": 20,
+  "cf_drop": 0.1,
+  "corrupt_aug_frac": 0.0,
+  "batch_size": 128,
+  "lr": 0.001,
+  "epochs": 40,
+  "stride_train": 1,
+  "stride_eval": 4,
+  "max_train": 6000,
+  "max_eval": 400,
+  "seed": 0,
+  "device": "cpu",
+  "model": "dlinear"
+}

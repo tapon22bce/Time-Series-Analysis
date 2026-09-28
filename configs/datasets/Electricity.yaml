@@ -1,0 +1,7 @@
+dataset: Electricity
+L: 168
+horizon: 24
+stride_train: 2
+stride_eval: 6
+max_train: 60000
+max_eval: 2000

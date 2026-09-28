@@ -1,0 +1,9 @@
+{
+  "n": 150,
+  "mean_top_weight": 0.16718621253967286,
+  "sensitivity_corr_remove": -0.1506951557119196,
+  "sensitivity_corr_swap": -0.1760348976103323,
+  "explanation_consistency_remove": 1.0,
+  "explanation_consistency_swap": 1.0,
+  "adversary_robustness_gap": 0.48470364133516947
+}

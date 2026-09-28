@@ -1,0 +1,23 @@
+# Base config; override any field with --set key=value or --set a.b=value (dot-path).
+dataset: ETTh1
+model: diffusion_faithts        # naive_last | seasonal_naive | ridge_linear | dlinear |
+                                 # patch_transformer | diffusion_plain | diffusion_fixed | diffusion_faithts
+L: 96                            # context length
+horizon: 24                      # forecast length H
+k_neighbors: 5
+sparse_k: 3                      # top-k sparsification inside RetrievalWeighter (null = dense softmax)
+d_model: 64
+depth: 4
+T: 200                           # diffusion steps (training)
+sample_steps: 50                 # DDIM steps (sampling)
+cf_drop: 0.1                     # classifier-free dropout prob of the retrieval stream
+batch_size: 128
+lr: 0.0002
+epochs: 20
+stride_train: 1
+stride_eval: 4
+max_train: null                  # cap #train windows (per-channel*origins) for speed; null = all
+max_eval: 2000
+data_root: data/raw
+seed: 0
+device: null                     # null = auto (cuda if available else cpu)

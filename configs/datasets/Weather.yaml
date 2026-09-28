@@ -1,0 +1,7 @@
+dataset: Weather
+L: 144
+horizon: 24
+stride_train: 1
+stride_eval: 4
+max_train: 60000
+max_eval: 2000
